@@ -11,6 +11,4 @@ if (sodien <= 50){
     result = (sodien - 200)*5000 + 100*3500 + 50*3000 + 50*1500;
 }
     document.getElementById("hehe").innerHTML = + result + " VND";
-
-    
 }
